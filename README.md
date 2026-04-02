@@ -10,7 +10,7 @@ UTC ACM's first Game Jam for all skill levels!
 # Getting Started
 Register here by Apr 5: https://forms.office.com/r/bL9EjDPFmX
 
-You must join the Discord server to participate!
+You must join the Discord server to participate! Link is in the form above.
 
 You will need a GitHub account to collaborate and submit.
 
