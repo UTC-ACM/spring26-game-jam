@@ -124,25 +124,14 @@ Godot platformer in 20 seconds: https://www.youtube.com/watch?v=thgdTkxeNJY
 Bouncing ball in Godot in 20 seconds:
 https://www.youtube.com/watch?v=GaT8veJJKOQ
 
+---
+
+**For more detailed information, see [Tips and Resources](./Tips-and-Resources.md)**
 
 ### Resources
 You may and are encouraged to use templates and resources online! 
 
 You can also use AI to generate skeleton code, functions, ideas, etc.
-
-Template Examples:
-* [Beginner PyGame templates](https://gist.github.com/MatthewJA/7544830)
-* [itch.io Game Jam Game Starter Template](https://hatmix.itch.io/game-jam-starter-template)
-* [itch.io Web Game Template](https://mangomoose.itch.io/web-game-template)
-* [Godot 2D Platformer Starter Kit](https://godotengine.org/asset-library/asset/2201)
-* [Godot Templates](https://godotengine.org/asset-library/asset?page=1&filter=template)
-* [Narrative Web Game Template (HTML+CSS+JS)](https://ifthencreate.itch.io/narrativegametemplate)
-
-Free Assets you can use 
-* CraftPix 
-* OpenGameArt 
-* itch.io Free Assets 
-* Kenney assets 
 
 ### Constraints and Design Tips
 * **2D only**
@@ -196,3 +185,5 @@ Free Assets you can use
     * Feedback: Sound + score
 
 That’s all you need for a complete game!
+
+> Ready to get started? [Register now!](https://forms.office.com/r/bL9EjDPFmX)
