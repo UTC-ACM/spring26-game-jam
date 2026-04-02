@@ -1,14 +1,20 @@
-# Spring 2026 Mini Game Jam
+# Spring 2026 Mini Game Jam 🕹️
 UTC ACM's first Game Jam for all skill levels!
 
-**Duration:** Mon, Apr 6 - Fri, Apr 10 2026
+📆**Duration:** Mon, Apr 6 - Fri, Apr 10 2026
 
-**Submission deadline:** 4/10 by 8:00 AM
+📢**Submission deadline:** 4/10 by 8:00 AM
 
-**Theme:** To be revealed Apr 6
+💭**Theme:** To be revealed Apr 6
+
+**You should join this Game Jam if you want to...**
+* get your feet wet with game development
+* learn something
+* make something playable
+* have fun
 
 # Getting Started
-Register here by Apr 5: https://forms.office.com/r/bL9EjDPFmX
+[Register here by Apr 5](https://go.utc.edu/gamejam)
 
 You must join the Discord server to participate! Link is in the form above.
 
@@ -32,16 +38,16 @@ This video gives a nice overview:
 https://www.youtube.com/embed/3QYq0HOneIg?si=G8r7SHV0NNSFuqB3
 
 
-## Rules
+## Rules and Guidelines
 1. You are encouraged to brainstorm / begin work sooner!
 2. Teams are optional but recommended (2-4 people)
-3. You can have team members from other departments. Do you want original art and music? Ask your artistic friends to join your team!
-4. 2D games only!
-5. Playable by day 2 (even if it's ugly)
-6. Use of AI is allowed as long as you disclose it
-7. No preexisting/ongoing personal projects can be submitted 
-8. You may not submit anything offensive/obscene/hateful/etc. Keep content appropriate for a general audence.
-9. Research and ask questions!
+   - You can recruit members from other departments! (You might want artists or musicians...)
+6. 2D games only
+7. Following the theme is optional
+8. Use of AI is allowed as long as you disclose it
+9. No preexisting/ongoing personal projects can be submitted 
+10. You may not submit anything offensive/obscene/hateful/etc. Keep content appropriate for a general audence.
+11. Research and ask questions!
 
 ## Schedule
 Before the Jam:
@@ -59,10 +65,14 @@ Before the Jam:
 **Apr 6-9 (Mon-Thurs)**
 - Work on the game
 - Mini devlog updates at the end of each day
-- Playtest sessions if you want to share your game!
+- Playtest sessions if you want to share your game
 
 - Must be playable by day 2 (even if ugly/buggy), improve in following days 
 - A bonus challenge will be revealed in the middle of the week! Those who complete the challenge will recieve an award.
+
+**Apr 9 (Thurs): Collaborative Crunch Session**
+- Time: 3:30 to 5:00 PM
+- Location: ECS 321
 
 > 🚨 **Submission deadline: 4/10 by 8:00 AM**
 
@@ -185,5 +195,6 @@ You can also use AI to generate skeleton code, functions, ideas, etc.
     * Feedback: Sound + score
 
 That’s all you need for a complete game!
+
 
 > Ready to get started? [Register now!](https://forms.office.com/r/bL9EjDPFmX)
